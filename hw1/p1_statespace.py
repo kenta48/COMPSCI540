@@ -1,9 +1,3 @@
-# Title:            p1_statespace.py
-# Files:            p1_statespace.py
-# Semester:         CS540 Fall 2020
-# Author:           Kenta Shibasaki
-# Email:            kshibasaki@wisc.edu
-# CS Login:         kenta
 
 # This program is to state space generation of the water juggle puzzle
 # including four functions to fill the jug, empty the jug, and pour into another jug

@@ -1,10 +1,3 @@
-# Title:            p1_weather.py
-# Files:            p1_weather.py
-# Semester:         CS540 Fall 2020
-# Author:           Kenta Shibasaki
-# Email:            kshibasaki@wisc.edu
-# CS Login:         kenta
-
 # This program is to predict data from historical data
 
 # this is the function to return the manhattan distance
